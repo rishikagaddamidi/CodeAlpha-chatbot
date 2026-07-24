@@ -1,2 +1,2 @@
-# CodeAlpha-chatbot
-Basic chatbot using python for CodeAlpha Internship.
+# CodeAlpha-BasicChatbot
+BasicChatbot using python for CodeAlpha Internship.
